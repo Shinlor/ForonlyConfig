@@ -19,3 +19,4 @@ payload:
   - DOMAIN-SUFFIX,mypikpak.net
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,docker.com
